@@ -4,7 +4,8 @@
 
 ### made to translate different kinds of alien languages like:
 * Ariral
-* Na'Vi
+* Na'Vi (In the works)
+* Klingon (In the works)
 ---
 ## Credits
 Art & Bot: `obi1` <br>
