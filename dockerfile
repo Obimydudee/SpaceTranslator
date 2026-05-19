@@ -10,6 +10,5 @@ ADD src/Utils /spaceTranslator/Utils
 RUN pip install -r requirements.txt
 
 ENV Space=DiscordBotTokenHere
-ENV BotID=DiscordBotIDHere
 
 CMD [ "python3", "app.py" ]
